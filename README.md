@@ -32,7 +32,7 @@
  
  
  
- ![Snake animation](https://github.com/Gaby170/Gaby170/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ### "Não desisita dos seus sonhos, continue dormindo💤"
 
