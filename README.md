@@ -12,9 +12,9 @@
 
 
 
-![Gabi170 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaby170&show_icons=true&theme=tokyonight)
+![Gabi170 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabi170&show_icons=true&theme=tokyonight)
 <div>
-<a href="https://github.com/Gaby170">
+<a href="https://github.com/Gabi170">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabi170&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
