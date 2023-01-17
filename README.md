@@ -31,6 +31,7 @@
 </div>
  
  
+ <img src="https://github.com/nabucoanalista/nabucoanalista/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
  
 
