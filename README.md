@@ -31,7 +31,7 @@
 </div>
  
  
- <img src="https://github.com/Gaby170/Gaby170/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+ <img src="https://github.com/Gabi170/Gabi170/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
  
 
