@@ -1,6 +1,6 @@
 ## Hello word!!
 
-### Sou a Gaby Araújo, sempre tentando aprender mais !✌️😁
+### Sou a Gabi Araújo, sempre tentando aprender mais !✌️😁
  
  * Entre em contato!
 
