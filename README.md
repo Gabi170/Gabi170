@@ -29,9 +29,12 @@
   <img align="center" alt="Mateus-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Mateus-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
  </div>
+ 
+ <br>
 
 ![snake gif](https://github.com/Gabi170/Gabi170/blob/output/github-contribution-grid-snake.svg)
  
+  <br>
 
 ### "Não desisita dos seus sonhos, continue dormindo💤"
 
